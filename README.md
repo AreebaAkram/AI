@@ -9,6 +9,6 @@ This repository contains all the notes, assignments, and codes that I have learn
 
 ## Purpose
 The purpose of this repository is to:
-Organize my learning journey
-Share my AI codes and projects
-Serve as a reference for revision and future projects
+<li> Organize my learning journey </li>
+<li> Share my AI codes and projects </li>
+<li> Serve as a reference for revision and future projects </li>

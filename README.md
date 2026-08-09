@@ -1,15 +1,5 @@
-# AI
-This repository contains all the notes, assignments, and codes that I have learned and implemented during my AI class.
-## Contents
-<li> Search algorithms </li>
-<li> Sentiment Analysis </li>
-<li> Web Scraping </li>
-<li> Image Processing & Transformation </li>
-<li> Classification </li>
-<li> Object Detection </li>
+🎯 Purpose
 
-## Purpose
-The purpose of this repository is to:
-<li> Organize my learning journey </li>
-<li> Share my AI codes and projects </li>
-<li> Serve as a reference for revision and future projects </li>
+This repository serves as a practical record of my progression through Artificial Intelligence, Machine Learning, NLP, and Computer Vision, with an emphasis on implementing concepts rather than only studying their theory.
+
+It also serves as a foundation for applying these techniques to larger software projects, including AI-powered mobile applications such as NutriSafe

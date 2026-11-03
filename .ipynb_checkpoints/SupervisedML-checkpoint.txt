@@ -1,0 +1,12 @@
+-> each input has correct output (e.g., for every new input instance there must exist the correct output -> for dog img to detect there must be already dog image in training dataset
+The model compares its predictions with actual results and improves over time to increase accuracy.
+
+1. classification -> where the output is categorical
+2. Regression -> where output is continuous variable
+
+steps for working:
+1. collect data with labels 
+2. split the data - train & test
+3. train the model
+4. validate and test the model on test data
+5. deploy the model for unseen data

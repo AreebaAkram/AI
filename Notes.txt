@@ -1,0 +1,14 @@
+Multicollinearity:  happens when two or more independent (predictor) variables in a regression model are strongly correlated with each other.
+they may contain overlapping information. It can make Logistic Regression coefficients unstable and harder to interpret.
+Corelaion matrix is used to detect it. 
+Look at pairwise correlations between predictors; values above 0.7 to 0.9 suggest strong collinearity
+
+Your question	Recommended graph
+Distribution of numerical data:	Histogram
+Outliers in numerical data:	Box plot
+Relationship between two numerical features:	Scatter plot
+Numerical feature vs target:	Box plot / violin plot
+Categorical feature vs target:	Count plot / percentage bar chart
+Correlation between numerical features:	Heatmap
+Class distribution:	Count plot
+Relationship between categorical variables:	Crosstab / stacked bar chart
